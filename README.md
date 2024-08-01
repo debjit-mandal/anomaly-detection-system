@@ -1,6 +1,9 @@
 
 # Real-Time Anomaly Detection
 
+![image](https://github.com/user-attachments/assets/6da28c57-95fa-4875-8462-2091ce0a5fa5)
+
+
 This project implements a real-time anomaly detection system using OpenCV, YOLO (You Only Look Once) for object detection, and a custom anomaly detection model built with PyTorch. The system uses a webcam to monitor and detect anomalies such as unauthorized access, violence, or unusual activities in real-time.
 
 ## Features
